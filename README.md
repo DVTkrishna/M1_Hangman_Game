@@ -1,0 +1,1 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/003ec034c15d4c40ba6306567c4dc6d8)](https://www.codacy.com/gh/DVTkrishna/M1_Hangman_Game/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DVTkrishna/M1_Hangman_Game&amp;utm_campaign=Badge_Grade)
