@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "conio.h": "c",
+        "time.h": "c",
+        "HANGMAN_CODE.H": "cpp"
+    }
+}
